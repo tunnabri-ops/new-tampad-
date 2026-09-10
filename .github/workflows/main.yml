@@ -1,8 +1,7 @@
-name: Auto Update Playlist 
+name: Auto Update Playlist
 
 on:
   schedule:
-    # প্রতি ৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে চেক ও আপডেট করবে
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -17,14 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download latest M3U and JSON
+      - name: Download latest M3U and JSON (No Cache)
         run: |
-          curl -sL "https://raw.githubusercontent.com/srhady/tapmad-bd/main/tapmad_bd.m3u" -o tapmad_bd.m3u
-          curl -sL "https://raw.githubusercontent.com/srhady/tapmad-bd/main/tapmad_bd.json" -o tapmad_bd.json
+          # ক্যাশ বাইপাস করতে টাইমস্ট্যাম্প প্যারামিটার যুক্ত
+          TIMESTAMP=$(date +%s)
+          curl -H "Cache-Control: no-cache" -sL "https://raw.githubusercontent.com/srhady/tapmad-bd/main/tapmad_bd.m3u?t=${TIMESTAMP}" -o tapmad_bd.m3u
+          curl -H "Cache-Control: no-cache" -sL "https://raw.githubusercontent.com/srhady/tapmad-bd/main/tapmad_bd.json?t=${TIMESTAMP}" -o tapmad_bd.json
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add tapmad_bd.m3u tapmad_bd.json
-          git diff-index --quiet HEAD || (git commit -m "Auto update: $(date)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update tapmad: $(date)" && git push origin main)
