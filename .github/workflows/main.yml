@@ -2,6 +2,7 @@ name: Auto Update Playlist
 
 on:
   schedule:
+    # প্রতি ৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে চলবে
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -16,13 +17,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download latest M3U playlist
+      - name: Download latest M3U and JSON files
         run: |
+          # m3u ফাইল ডাউনলোড
           curl -sL "https://raw.githubusercontent.com/srhady/tapmad-bd/main/tapmad_bd.m3u" -o tapmad_bd.m3u
+          
+          # json ফাইল ডাউনলোড (সোর্স ফাইলের নাম অনুযায়ী)
+          curl -sL "https://raw.githubusercontent.com/srhady/tapmad-bd/main/tapmad_bd.json" -o tapmad_bd.json
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add tapmad_bd.m3u
-          git diff-index --quiet HEAD || (git commit -m "Auto update playlist" && git push)
+          git add tapmad_bd.m3u tapmad_bd.json
+          git diff-index --quiet HEAD || (git commit -m "Auto update: $(date)" && git push)
