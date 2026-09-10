@@ -2,8 +2,7 @@ name: Auto Update Playlist
 
 on:
   schedule:
-    # প্রতি 2 মিনিট পর পর নিজে নিজে আপডেট হবে
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
