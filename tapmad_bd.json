@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:15 AM 11-09-2026",
+        "LastUpdate": "03:30 PM 11-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 15
+        "LiveCount": 1,
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -16,14 +16,15 @@
             "VideoName": "England vs Pakistan",
             "CategoryName": "Pakistan Tour of England 2026",
             "StageName": "3rd Test",
-            "EventStartDate": "2026-09-11 16:00:00",
+            "EventStartDate": "2026-09-09 16:00:00",
             "Description": "The 3rd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788178193540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788178193540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 764,
-            "UrlSlug": "england-vs-pakistan-3rd-test-live"
+            "UrlSlug": "england-vs-pakistan-3rd-test-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 16708,
@@ -110,6 +111,76 @@
             "UrlSlug": "us-open-2026-live-streaming"
         },
         {
+            "EntityId": 17167,
+            "VideoName": "Japan Cup Qualifying Round 1 and 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying Round 1 & 2",
+            "EventStartDate": "2026-09-12 06:00:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Japan Cup Qualifying Round 1 and 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789110292540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789110292540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-qualifying-round-1-and-2-live"
+        },
+        {
+            "EntityId": 17173,
+            "VideoName": "Suzuka 1000 Pre-Qualifying Round Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying Race",
+            "EventStartDate": "2026-09-12 07:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Suzuka 1000 Pre-Qualifying Round match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789110638540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789110638540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-suzuka-1000-pre-qualifying-round-live"
+        },
+        {
+            "EntityId": 17179,
+            "VideoName": "Japan Cup Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-09-12 10:30:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Japan Cup Race 1 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789111710540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789111710540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-race-1-live"
+        },
+        {
+            "EntityId": 17185,
+            "VideoName": "Porsche Carrera Cup Japan Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-09-12 13:40:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Porsche Carrera Cup Japan Race 1 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789112064540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789112064540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-japan-race-1-live"
+        },
+        {
+            "EntityId": 17191,
+            "VideoName": "Suzuka 1000 Qualifying Round Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying Race",
+            "EventStartDate": "2026-09-12 14:30:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Suzuka 1000 Qualifying Round match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789115991540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789115991540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-suzuka-1000-qualifying-round-live"
+        },
+        {
             "EntityId": 16709,
             "VideoName": "Belfast Wolves vs Rotterdam Dockers",
             "CategoryName": "European T20 Premier League 2026",
@@ -192,34 +263,6 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
-        },
-        {
-            "EntityId": 16320,
-            "VideoName": "Men's Doubles Final",
-            "CategoryName": "US Open 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-12 22:00:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789027904540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789027904540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming"
-        },
-        {
-            "EntityId": 16932,
-            "VideoName": "Silva vs Delgado",
-            "CategoryName": "UFC 2026",
-            "StageName": "Noche",
-            "EventStartDate": "2026-09-13 03:00:00",
-            "Description": "UFC Noche Live: Watch Silva vs Delgado live online on tapmad. Enjoy watching Silva vs Delgado live streaming online in Bangladesh with full match highlights. The fight will start at 03:00 AM on 13-Sep. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789033703540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789033703540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 265,
-            "UrlSlug": "ufc noche-silva vs delgado-live"
         }
     ]
 }
