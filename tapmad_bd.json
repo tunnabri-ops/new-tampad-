@@ -1,30 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:45 PM 12-09-2026",
+        "LastUpdate": "05:30 PM 12-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 17
+        "LiveCount": 2,
+        "UpcomingCount": 14
     },
     "Matches": [
         {
-            "EntityId": 17185,
-            "VideoName": "Porsche Carrera Cup Japan Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-09-12 13:40:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Porsche Carrera Cup Japan Race 1 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789112064540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789112064540x302.jpg",
+            "EntityId": 15935,
+            "VideoName": "England vs Pakistan",
+            "CategoryName": "Pakistan Tour of England 2026",
+            "StageName": "3rd Test",
+            "EventStartDate": "2026-09-09 16:00:00",
+            "Description": "The 3rd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788178193540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788178193540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-japan-race-1-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "CategoryId": 764,
+            "UrlSlug": "england-vs-pakistan-3rd-test-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16709,
@@ -36,51 +36,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789028257540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789028257540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-belfast-wolves-vs-rotterdam-dockers-live"
-        },
-        {
-            "EntityId": 15935,
-            "VideoName": "England vs Pakistan",
-            "CategoryName": "Pakistan Tour of England 2026",
-            "StageName": "3rd Test",
-            "EventStartDate": "2026-09-12 16:00:00",
-            "Description": "The 3rd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788178193540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788178193540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 764,
-            "UrlSlug": "england-vs-pakistan-3rd-test-live"
-        },
-        {
-            "EntityId": 17142,
-            "VideoName": "Session 1 - Q1 Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 1",
-            "EventStartDate": "2026-09-12 17:30:00",
-            "Description": "The UIM E1 World Championship Luanda GP 2026 brings elite teams together for an exciting electric powerboat racing challenge. Featuring high-speed racing, tactical battles, close competition, and demanding on-water action, every race delivers thrilling moments. Watch the UIM E1 World Championship Luanda GP 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789031357540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789031357540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "uim-e1-world-championship-luanda-gp-2030"
-        },
-        {
-            "EntityId": 16949,
-            "VideoName": "Racing Santander vs Alaves",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-09-12 18:00:00",
-            "Description": "The 39th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789156325540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789156325540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--racing-santander-vs-alaves-live"
+            "UrlSlug": "european-t20-premier-league-2026-belfast-wolves-vs-rotterdam-dockers-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 16710,
@@ -95,20 +54,6 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-dublin-guardians-vs-glasgow-cosmic-live"
-        },
-        {
-            "EntityId": 17147,
-            "VideoName": "Session 2 - Q2 + Q3 + Q4 Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 2",
-            "EventStartDate": "2026-09-12 19:35:00",
-            "Description": "The UIM E1 World Championship Luanda GP 2026 brings elite teams together for an exciting electric powerboat racing challenge. Featuring high-speed racing, tactical battles, close competition, and demanding on-water action, every race delivers thrilling moments. Watch the UIM E1 World Championship Luanda GP 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789031626540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789031626540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "uim-e1-world-championship-luanda-gp-2030"
         },
         {
             "EntityId": 17054,
@@ -263,6 +208,34 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16323,
+            "VideoName": "Men's Singles Final",
+            "CategoryName": "US Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-09-14 00:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789131055540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789131055540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 17056,
+            "VideoName": "Barbados Tridents Women vs Guyana Amazon Warriors Women",
+            "CategoryName": "Women's Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-14 00:00:00",
+            "Description": "The  T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents Women vs Guyana Amazon Warriors Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789129500540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789129500540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 952,
+            "UrlSlug": "barbados-tridents-women-vs-guyana-amazon-warriors-women--t20-live"
         }
     ]
 }
