@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 AM 15-09-2026",
+        "LastUpdate": "04:00 PM 15-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 6
+        "LiveCount": 5,
+        "UpcomingCount": 12
     },
     "Matches": [
         {
@@ -21,9 +21,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789391796540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789391796540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1036,
-            "UrlSlug": "australia-tour-of-zimbabwe-2026"
+            "UrlSlug": "australia-tour-of-zimbabwe-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16713,
@@ -35,9 +36,83 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789379767540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789379768540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-dublin-guardians-live"
+            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-dublin-guardians-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "EntityId": 17327,
+            "VideoName": "Kashima Antlers vs Newcastle Jets FC Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 16:00:00",
+            "Description": "Watch Kashima Antlers vs Newcastle Jets FC live online on tapmad. The AFC Champions League Elite Kashima Antlers vs Newcastle Jets FC match is scheduled to take place on 15-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789452686540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789452686540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Kashima Antlers vs Newcastle Jets FC",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "EntityId": 17332,
+            "VideoName": "Daejeon Hana Citizen vs Kyota Sanga F.C Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 16:00:00",
+            "Description": "Watch Daejeon Hana Citizen vs Kyota Sanga F.C live online on tapmad. The AFC Champions League Elite Daejeon Hana Citizen vs Kyota Sanga F.C match is scheduled to take place on 15-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789453315540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789453315540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Daejeon Hana Citizen vs Kyota Sanga F.C",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "EntityId": 17337,
+            "VideoName": "Gamba Osaka vs Cong An Ha Noi Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 16:00:00",
+            "Description": "Watch Gamba Osaka vs Cong An Ha Noi live online on tapmad. The AFC Champions League Elite Gamba Osaka vs Cong An Ha Noi match is scheduled to take place on 15-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789453832540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789453832540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Gamba Osaka vs Cong An Ha Noi",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        },
+        {
+            "EntityId": 17347,
+            "VideoName": "Johor Darul Ta'zim FC vs Buriram United Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 18:15:00",
+            "Description": "Watch Johor Darul Ta'zim FC vs Buriram United live online on tapmad. The AFC Champions League Elite Johor Darul Ta'zim FC vs Buriram United match is scheduled to take place on 15-Sep,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789454900540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789454900540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Johor Darul Ta'zim FC vs Buriram United"
+        },
+        {
+            "EntityId": 17352,
+            "VideoName": "Beijing FC vs FC Pohang Steelers Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 18:15:00",
+            "Description": "Watch Beijing FC vs FC Pohang Steelers live online on tapmad. The AFC Champions League Elite Beijing FC vs FC Pohang Steelers match is scheduled to take place on 15-Sep,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789455919540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789455919540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Beijing FC vs FC Pohang Steelers"
         },
         {
             "EntityId": 16714,
@@ -54,6 +129,34 @@
             "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-rotterdam-dockers-live"
         },
         {
+            "EntityId": 17392,
+            "VideoName": "Golgohar Sirjan SC vs Al Jazira Club Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 19:45:00",
+            "Description": "Watch Golgohar Sirjan SC vs Al Jazira Club live online on tapmad. The AFC Champions League Two Golgohar Sirjan SC vs Al Jazira Club match is scheduled to take place on 15-Sep,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789459493540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789459493540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 17397,
+            "VideoName": "FC Arkadag vs Al Muharraq SC Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 19:45:00",
+            "Description": "Watch FC Arkadag vs Al Muharraq SC live online on tapmad. The AFC Champions League Two FC Arkadag vs Al Muharraq SC match is scheduled to take place on 15-Sep,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789459831540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789459831540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
             "EntityId": 17471,
             "VideoName": "India vs Afghanistan",
             "CategoryName": "India Tour of Afghanistan 2026",
@@ -66,6 +169,20 @@
             "Status": "Upcoming",
             "CategoryId": 1040,
             "UrlSlug": "ind-vs-afg-2nd-t20-2026"
+        },
+        {
+            "EntityId": 17357,
+            "VideoName": "Al Ain FC vs Al Nassr Club Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 22:00:00",
+            "Description": "Watch Al Ain FC vs Al Nassr Club live online on tapmad. The AFC Champions League Elite Al Ain FC vs Al Nassr Club match is scheduled to take place on 15-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789456465540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789456465540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Al Ain FC vs Al Nassr Club"
         },
         {
             "EntityId": 16958,
@@ -94,6 +211,48 @@
             "Status": "Upcoming",
             "CategoryId": 1037,
             "UrlSlug": "sri-lanka-tour-of-england-2026"
+        },
+        {
+            "EntityId": 17362,
+            "VideoName": "Al Hilal SFC vs Al Gharafa SC Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 00:15:00",
+            "Description": "Watch Al Hilal SFC vs Al Gharafa SC live online on tapmad. The AFC Champions League Elite Al Hilal SFC vs Al Gharafa SC match is scheduled to take place on 15-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789457147540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789457147540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Al Hilal SFC vs Al Gharafa SC"
+        },
+        {
+            "EntityId": 16715,
+            "VideoName": "Glasgow Cosmic vs Amsterdam Flames",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-16 19:15:00",
+            "Description": "The 28th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Glasgow Cosmic vs Amsterdam Flames live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789462295540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789462295540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-glasgow-cosmic-vs-amsterdam-flames-live"
+        },
+        {
+            "EntityId": 17057,
+            "VideoName": "Barbados Tridents Women vs Guyana Amazon Warriors Women",
+            "CategoryName": "Women's Caribbean Premier League 2026",
+            "StageName": "Playoffs",
+            "EventStartDate": "2026-09-16 20:00:00",
+            "Description": "The 42nd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents Women vs Guyana Amazon Warriors Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789461970540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789461970540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 952,
+            "UrlSlug": "barbados-tridents-women-vs-guyana-amazon-warriors-women-42nd-t20-live"
         }
     ]
 }
