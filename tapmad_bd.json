@@ -1,136 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 16-09-2026",
+        "LastUpdate": "01:30 AM 17-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
-        "UpcomingCount": 15
+        "LiveCount": 11,
+        "UpcomingCount": 10
     },
     "Matches": [
-        {
-            "EntityId": 16715,
-            "VideoName": "Glasgow Cosmic vs Amsterdam Flames",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-16 19:15:00",
-            "Description": "The 28th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Glasgow Cosmic vs Amsterdam Flames live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789462295540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789462295540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-glasgow-cosmic-vs-amsterdam-flames-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 17057,
-            "VideoName": "Barbados Tridents Women vs Guyana Amazon Warriors Women",
-            "CategoryName": "Women's Caribbean Premier League 2026",
-            "StageName": "Playoffs",
-            "EventStartDate": "2026-09-16 20:00:00",
-            "Description": "The 42nd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents Women vs Guyana Amazon Warriors Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789461970540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789461970540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 952,
-            "UrlSlug": "barbados-tridents-women-vs-guyana-amazon-warriors-women-42nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "EntityId": 17412,
-            "VideoName": "Al Hussein vs East Bengal FC Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:00:00",
-            "Description": "Watch Al Hussein vs East Bengal FC live online on tapmad. The AFC Champions League Two Al Hussein vs East Bengal FC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789542282540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789542282540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "EntityId": 17417,
-            "VideoName": "Al Wahda FC vs Kuwait SC Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:00:00",
-            "Description": "Watch Al Wahda FC vs Kuwait SC live online on tapmad. The AFC Champions League Two Al Wahda FC vs Kuwait SC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789543543540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789543543540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
-            "EntityId": 17422,
-            "VideoName": "Al Khaldiya SC vs PFC Nasaf Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:00:00",
-            "Description": "Watch Al Khaldiya SC vs PFC Nasaf live online on tapmad. The AFC Champions League Two Al Khaldiya SC vs PFC Nasaf match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789544407540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789544407540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 17427,
-            "VideoName": "Al Nahda Club vs Al Taawoun FC Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:00:00",
-            "Description": "Watch Al Nahda Club vs Al Taawoun FC live online on tapmad. The AFC Champions League Two Al Nahda Club vs Al Taawoun FC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789544806540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789544806540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 17276,
-            "VideoName": "Omonoia vs Celta",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:45:00",
-            "Description": "Watch Omonoia vs Celta live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Omonoia vs Celta match will take place on 16-Sep, Wednesday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789472960540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789472960540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "omonoia-vs-celta-ucl-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 17277,
-            "VideoName": "Ararat-Armenia vs Sparta Praha",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:45:00",
-            "Description": "Watch Ararat-Armenia vs Sparta Praha live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Ararat-Armenia vs Sparta Praha match will take place on 16-Sep, Wednesday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789473145540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789473145540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "ararat-armenia-vs-sparta praha-ucl-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "EntityId": 17432,
             "VideoName": "Al Rayyan SC vs Al Faisaly Live",
@@ -141,9 +21,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545202540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545202540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
             "EntityId": 17437,
@@ -155,9 +36,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545652540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545652540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 17278,
@@ -169,9 +51,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552327540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552327540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "olympiacos-vs-jagiellonia bialystok-ucl-live-match"
+            "UrlSlug": "olympiacos-vs-jagiellonia bialystok-ucl-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
             "EntityId": 17279,
@@ -183,9 +66,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552453540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552453540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "anderlecht-vs-ol-ucl-live-match"
+            "UrlSlug": "anderlecht-vs-ol-ucl-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         },
         {
             "EntityId": 17280,
@@ -197,9 +81,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552590540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552590540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "leverkusen-vs-celje-ucl-live-match"
+            "UrlSlug": "leverkusen-vs-celje-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 17281,
@@ -211,9 +96,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552708540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552708540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "sunderland-vs-az alkmaar-ucl-live-match"
+            "UrlSlug": "sunderland-vs-az alkmaar-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 17282,
@@ -225,9 +111,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552887540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552887540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "milan-vs-benfica-ucl-live-match"
+            "UrlSlug": "milan-vs-benfica-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "EntityId": 17283,
@@ -239,9 +126,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789553017540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789553017540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "sturm graz-vs-rennes-ucl-live-match"
+            "UrlSlug": "sturm graz-vs-rennes-ucl-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "EntityId": 17284,
@@ -253,9 +141,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789553170540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789553170540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 905,
-            "UrlSlug": "h. beer-sheva-vs-dinamo zagreb-ucl-live-match"
+            "UrlSlug": "h. beer-sheva-vs-dinamo zagreb-ucl-live-match",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
         },
         {
             "EntityId": 16963,
@@ -267,9 +156,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789558926540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789558926540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--levante-vs-athletic-live"
+            "UrlSlug": "laliga--levante-vs-athletic-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 16964,
@@ -281,9 +171,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789559025540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789559025540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--barcelona-vs-racing-santander-live"
+            "UrlSlug": "laliga--barcelona-vs-racing-santander-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         },
         {
             "EntityId": 15811,
@@ -340,6 +231,90 @@
             "Status": "Upcoming",
             "CategoryId": 1040,
             "UrlSlug": "afghanistan-tour-of-india-2028"
+        },
+        {
+            "EntityId": 17285,
+            "VideoName": "Levski Sofia vs RB Salzburg",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 22:45:00",
+            "Description": "Watch Levski Sofia vs RB Salzburg live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Levski Sofia vs RB Salzburg match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789553413540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789553413540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "levski sofia-vs-rb salzburg-ucl-live-match"
+        },
+        {
+            "EntityId": 17286,
+            "VideoName": "OFI vs Hoffenheim",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 22:45:00",
+            "Description": "Watch OFI vs Hoffenheim live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The OFI vs Hoffenheim match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789556663540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789556663540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "ofi-vs-hoffenheim-ucl-live-match"
+        },
+        {
+            "EntityId": 16965,
+            "VideoName": "Betis vs Getafe",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-09-17 23:00:00",
+            "Description": "The 55th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Getafe live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789559141540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789559141540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--betis-vs-getafe-live"
+        },
+        {
+            "EntityId": 17384,
+            "VideoName": "England vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of England 2026",
+            "StageName": "2nd T20I",
+            "EventStartDate": "2026-09-17 23:30:00",
+            "Description": "The Sri Lanka Tour of England 2026 brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. Watch Sri Lanka Tour of England 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789471490540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789471490540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1037,
+            "UrlSlug": "sri-lanka-tour-of-england-2026"
+        },
+        {
+            "EntityId": 15812,
+            "VideoName": "Anitgua and Barbuda Falcons vs Guyana Amazon Warriors",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Semi Final 1",
+            "EventStartDate": "2026-09-18 06:00:00",
+            "Description": "The 44th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Anitgua and Barbuda Falcons vs Guyana Amazon Warriors live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789557617540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789557617540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "anitgua-and-barbuda-falcons-vs-guyana-amazon-warriors-44th-t20-live"
+        },
+        {
+            "EntityId": 17375,
+            "VideoName": "Zimbabwe vs Australia",
+            "CategoryName": "Australia Tour of Zimbabwe 2026",
+            "StageName": "2nd ODI",
+            "EventStartDate": "2026-09-18 13:30:00",
+            "Description": "The Australia Tour of Zimbabwe 2026 brings together two international cricket sides for an exciting three-match ODI series. Featuring quality batting, disciplined bowling, powerful hitting, and competitive 50-over cricket, every match promises thrilling action. Watch Australia Tour of Zimbabwe 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and match-defining moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789563000540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789563000540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1036,
+            "UrlSlug": "australia-tour-of-zimbabwe-2027"
         }
     ]
 }
