@@ -1,30 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 PM 16-09-2026",
+        "LastUpdate": "06:00 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 11
+        "LiveCount": 2,
+        "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 17402,
-            "VideoName": "FC Seoul vs Persib Bandung Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 16:00:00",
-            "Description": "Watch FC Seoul vs Persib Bandung live online on tapmad. The AFC Champions League Two FC Seoul vs Persib Bandung match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789537942540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789537942540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
-        },
         {
             "EntityId": 17367,
             "VideoName": "Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live",
@@ -35,23 +21,25 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789538564540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789538564540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Kashiwa Reysol"
+            "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Kashiwa Reysol",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "EntityId": 17372,
-            "VideoName": "Port FC vs Vissel Kobe Live",
-            "CategoryName": "AFC Champions League Elite 2026/27",
+            "EntityId": 17402,
+            "VideoName": "FC Seoul vs Persib Bandung Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
             "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 18:15:00",
-            "Description": "Watch Port FC vs Vissel Kobe live online on tapmad. The AFC Champions League Elite Port FC vs Vissel Kobe match is scheduled to take place on 16-Sep,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789538966540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789538966540x302.jpg",
+            "EventStartDate": "2026-09-16 16:00:00",
+            "Description": "Watch FC Seoul vs Persib Bandung live online on tapmad. The AFC Champions League Two FC Seoul vs Persib Bandung match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789537942540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789537942540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Port FC vs Vissel Kobe"
+            "Status": "Live",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 16715,
@@ -80,6 +68,62 @@
             "Status": "Upcoming",
             "CategoryId": 952,
             "UrlSlug": "barbados-tridents-women-vs-guyana-amazon-warriors-women-42nd-t20-live"
+        },
+        {
+            "EntityId": 17412,
+            "VideoName": "Al Hussein vs East Bengal FC Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 22:00:00",
+            "Description": "Watch Al Hussein vs East Bengal FC live online on tapmad. The AFC Champions League Two Al Hussein vs East Bengal FC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789542282540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789542282540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 17417,
+            "VideoName": "Al Wahda FC vs Kuwait SC Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 22:00:00",
+            "Description": "Watch Al Wahda FC vs Kuwait SC live online on tapmad. The AFC Champions League Two Al Wahda FC vs Kuwait SC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789543543540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789543543540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 17422,
+            "VideoName": "Al Khaldiya SC vs PFC Nasaf Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 22:00:00",
+            "Description": "Watch Al Khaldiya SC vs PFC Nasaf live online on tapmad. The AFC Champions League Two Al Khaldiya SC vs PFC Nasaf match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789544407540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789544407540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 17427,
+            "VideoName": "Al Nahda Club vs Al Taawoun FC Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 22:00:00",
+            "Description": "Watch Al Nahda Club vs Al Taawoun FC live online on tapmad. The AFC Champions League Two Al Nahda Club vs Al Taawoun FC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789544806540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789544806540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 17276,
@@ -138,32 +182,74 @@
             "UrlSlug": "laliga--atletico-madrid-vs-osasuna-live"
         },
         {
-            "EntityId": 17472,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "India Tour of Afghanistan 2026",
-            "StageName": "3rd T20I",
-            "EventStartDate": "2026-09-17 20:00:00",
-            "Description": "The Afghanistan Tour of India 2026 brings two exciting cricket sides together for a competitive international series. Featuring world-class batting, powerful hitting, quality spin, disciplined bowling, and thrilling T20I action, every match promises intense cricket. Watch Afghanistan Tour of India 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and match-defining moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789539966540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789539966540x302.jpg",
+            "EntityId": 17432,
+            "VideoName": "Al Rayyan SC vs Al Faisaly Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 00:15:00",
+            "Description": "Watch Al Rayyan SC vs Al Faisaly live online on tapmad. The AFC Champions League Two Al Rayyan SC vs Al Faisaly match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545202540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545202540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 1040,
-            "UrlSlug": "afghanistan-tour-of-india-2028"
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
         },
         {
-            "EntityId": 17384,
-            "VideoName": "England vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of England 2026",
-            "StageName": "2nd T20I",
-            "EventStartDate": "2026-09-17 23:30:00",
-            "Description": "The Sri Lanka Tour of England 2026 brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. Watch Sri Lanka Tour of England 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789471490540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789471490540x302.jpg",
+            "EntityId": 17437,
+            "VideoName": "Al Shorta vs Al Seeb Club Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 00:15:00",
+            "Description": "Watch Al Shorta vs Al Seeb Club live online on tapmad. The AFC Champions League Two Al Shorta vs Al Seeb Club match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545652540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545652540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 1037,
-            "UrlSlug": "sri-lanka-tour-of-england-2026"
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 17278,
+            "VideoName": "Olympiacos vs Jagiellonia Bialystok",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 01:00:00",
+            "Description": "Watch Olympiacos vs Jagiellonia Bialystok live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Olympiacos vs Jagiellonia Bialystok match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552327540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552327540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "olympiacos-vs-jagiellonia bialystok-ucl-live-match"
+        },
+        {
+            "EntityId": 17279,
+            "VideoName": "Anderlecht vs OL",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 01:00:00",
+            "Description": "Watch Anderlecht vs OL live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Anderlecht vs OL match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552453540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552453540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "anderlecht-vs-ol-ucl-live-match"
+        },
+        {
+            "EntityId": 17280,
+            "VideoName": "Leverkusen vs Celje",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 01:00:00",
+            "Description": "Watch Leverkusen vs Celje live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Leverkusen vs Celje match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552590540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552590540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "leverkusen-vs-celje-ucl-live-match"
         }
     ]
 }
