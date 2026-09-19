@@ -1,15 +1,8 @@
-#EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:45 AM 20-09-2026
+# Last Update: 03:00 AM 20-09-2026
 # Telegram: https://t.me/livesportsplay
-# Owner: Md Sohanur Rahman Hady
+# Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-
-#EXTINF:-1 tvg-id="tapmad-17684" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898299031020x576.jpg" group-title="Football", Le Mans vs Lorient | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17685" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg" group-title="Football", OL vs Rennes | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17686" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898310121020x576.jpg" group-title="Football", Toulouse vs Le Havre | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17687" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898313201020x576.jpg" group-title="Football", Angers vs Troyes | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="tapmad-16970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898316371020x576.jpg" group-title="Football", Sevilla vs Barcelona | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
